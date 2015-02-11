@@ -64,7 +64,7 @@
 #RED9_META_REGISTERY=[]
 
 import maya.cmds as cmds
-import startup.setup as setup
+
 
 def start(Menu=True, MayaUIHooks=True, MayaOverloads=True, parentMenu='MayaWindow'):
   
